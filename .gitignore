@@ -26,6 +26,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+*.o
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -341,3 +342,15 @@ healthchecksdb
 
 # 20220618 SJZ: Code Reformatter Backups
 **/_Attic
+
+# MRR 2023
+*.bz2
+*.DSK
+*.zip
+LP*
+*Store
+*.tap
+mt669*
+CP34*
+dtcyber
+
